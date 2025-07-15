@@ -1,9 +1,9 @@
-======= JAVSCFIPT VARIABLE  let const var  ========
+//  JAVSCFIPT VARIABLE  let const var 
 
 let name = "farhan"
 
  name = "hassan"
-
+ 
  const id = "3232525325255"
 
  id = "lksjdf"
