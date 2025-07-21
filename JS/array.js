@@ -1,3 +1,3 @@
-let name = [ 'farhan' , 'baddar' , 'hassan' ]
+let name = [ 'farhan' , 'baddar' , 'hassan']
 
-document.write(name[1])
+document.write{name[0]}
