@@ -26,14 +26,14 @@
 // }
 
 
-let student = 80;
+let student = 79;
 
-if( student == 80){
-    document.write("Pass")
+if( student <= 80){
+    document.write("Fail")
 }
- break
+ 
 let person = 80
 
-if (person <90 ){
-    document.write("Fail")
+if (person >=40 ){
+    document.write("Pass")
 }
